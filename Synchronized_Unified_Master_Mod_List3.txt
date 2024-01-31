@@ -1,6 +1,7 @@
 Legend:
     Notified by:
-P | Already Present in Current List
+        P | Already on Server
+        ! | Not on Server
         K | Kyubi
         M | Monarch
         A | Appa
@@ -10,121 +11,121 @@ P | Already Present in Current List
         K | Kyubi's List
         S | Server Pack List
 ----------------------------------------------------------------------------------------
-U__ -  adaptive_performance_tweaks  -   adaptive_performance_tweaks_1.16.5-2.5.0.jar
-U__ -  allurement                   -   allurement-1.16.5-1.2.1.jar
-U__ -  appleskin                    -   appleskin-forge-mc1.16.x-2.5.1.jar
-U__ -  ars_elemental                -   ars_elemental-1.16.5-0.1.6.4.jar
-U__ -  ars_enderstorage             -   ArsEnderStorage-1.16.5-1.1.0.jar
-U__ -  ars_gears                    -   ars_gears-1.16.5-1.2.3.jar
-U__ -  ars_mage_fight               -   ars_mage_fight-1.16.5-0.7.1.jar
-U__ -  arsarsenal                   -   arsarsenal-1.1.0-1.16.5.jar
-U__ -  arsenal_core                 -   arsenal_core-1.1.1-1.16.5.jar
-U__ -  arsenal_integration          -   arsenal_integration-1.1.0-1.16.5.jar
-U__ -  arsomega                     -   arsomega-1.5.jar
-U__ -  astral                       -   astral-1.9.19.jar
-U__ -  autumnity                    -   autumnity-1.16.5-2.1.2.jar
-U__ -  babel                        -   Babel-1.0.5.jar
-U__ -  berry_good                   -   berry_good-1.16.5-4.1.2.jar
-U__ -  better_bone_meal             -   Fertilizer 1.16 Forge v.1.2.jar
-U__ -  better_diving                -   BetterDiving-1.16.5-1.3.5.jar
-U__ -  better_elder_guardian        -   better ElderGuardian 1.16.5.jar
-U__ -  betterburning                -   BetterBurning-1.16.5-6.0.8.jar
-U__ -  betterclay                   -   BetterClay-1.16.5-1.2.0.jar
-U__ -  betterdrowning               -   BetterDrowning-1.16.5-2.0.2.jar
-U__ -  bettergamemenu               -   BetterGameMenu-1.16.5-1.0.jar
-U__ -  betterlevel                  -   Better Level-1.0.jar
-U__ -  betterservergui              -   betterservergui-1.16.5-1.0.0.0-forge.jar
-U__ -  born_in_chaos_v1             -   born_in_chaos_1.16_1.3.jar
-U__ -  bowyery                      -   bowyery-0.2r.jar
-U__ -  buzzier_bees                 -   buzzier_bees-1.16.5-3.0.3.jar
-U__ -  bygonenether                 -   bygonenether-1.3.2-1.16.5.jar
-U__ -  cardboardboxes               -   cardboardboxes-1.16.5-0.0.5.jar
-U__ -  catalogue                    -   catalogue-1.6.1-1.16.5.jar
-U__ -  champions                    -   champions-forge-1.16.5-2.0.1.16.jar
-U__ -  curiosquarkobp               -   CuriosQuarkOBP-1.16.5-1.0.2.jar
-U__ -  cyclopscore                  -   CyclopsCore-1.16.5-1.13.0.jar
-U__ -  dcch                         -   DontClearChatHistory-1.jar
-U__ -  dragonfightconfigendergetic  -   dragonfightconfigendergetic-1.16.5-1.0.jar
-U__ -  ece                          -   ece-1.1.2.jar
-U__ -  endergetic                   -   endergetic-1.16.5-3.0.2.jar
-U__ -  enderstorage                 -   EnderStorage-1.16.5-2.8.0.170-universal.jar
-U__ -  everlastingabilities         -   EverlastingAbilities-1.16.5-1.8.0.jar
-U__ -  everythingisedibleeie        -   (1.16) EiE 1.1.1 (1.16.5[36.2.26]).jar
-U__ -  fastbenchminusreplacement    -   fastbenchminusreplacement-1.4.jar
-U__ -  fastfurnaceminusreplacement  -   fastfurnaceminusreplacement-1.1-1.16.3.jar
-U__ -  fastipping                   -   fast-ip-ping-mc1.16.5-forge-v1.0.1.jar
-U__ -  fastsuite                    -   FastSuite-1.16.4-1.1.1.jar
-U__ -  ferritecore                  -   ferritecore-2.1.1-forge.jar
-U__ -  foodeffects                  -   foodeffects-1.16.5-1.0.2.jar
-U__ -  ftbdripper                   -   ftb-dripper-1605.1.0-build.16.jar
-U__ -  getittogetherdrops           -   getittogetherdrops-1.16.5-v1.2.jar
-U__ -  goety                        -   Goety-1.36.1.jar
-U__ -  jea                          -   JustEnoughAdvancements-1.16.5-1.0.2.jar
-U__ -  jepb                         -   JEPB-1.0.0.jar
-U__ -  lazydfu                      -   lazydfu-0.1.3.jar
-U__ -  lootintegrations             -   lootintegrations-1.2.jar
-U__ -  lucent                       -   lucent-1.16.5-1.0.0.jar
-U__ -  neapolitan                   -   neapolitan-1.16.5-2.2.1.jar
-U__ -  nv_helmet                    -   Mining_Helmet.jar
-U__ -  opotato                      -   opotato-1.16.5-2.2.6.jar
-U__ -  paintings_pack1              -   PaintingPack1.16ver2.jar
-U__ -  passiveshield                -   passiveshield_1.16.5-2.6.jar
-U__ -  personality                  -   personality-1.16.5-1.0.3.jar
-U__ -  pocket_dimension             -   Pocket Dimension Storage.jar
-U__ -  quark                        -   Quark-r2.4-322.jar
-U__ -  quarkoddities                -   QuarkOddities-1.16.3.jar
-U__ -  responsiveshields            -   responsiveshields-2.1-mc1.16.5.jar
-U__ -  roadrunner                   -   RoadRunner-mc1.16.5-1.5.1.jar
-U__ -  secondchanceforge            -   secondchanceforge-1.16.5-1.5.0.jar
-U__ -  shieldexp                    -   ShieldExpansion-1.16.5-1.1.6.jar
-U__ -  spacecatasb                  -   spacecatasb-forge-16.10.1.jar
-U__ -  takesapillage                -   takesapillage-1.0.3-1.16.5.jar
-U__ -  tetranomicon                 -   tetranomicon-1.4-1.16.5.jar
-U__ -  tetrapak                     -   tetrapak-1.16.5-0.3.4.jar
-U__ -  toolbooster                  -   toolbooster-1.0-1.16.5.jar
-U__ -  travelerscompass             -   travelerscompass-1.16.5-1.0.0-forge.jar
-U__ -  undergarden                  -   The_Undergarden-1.16.5-0.5.5.jar
-U__ -  undergardenpatch             -   Undergarden-Tetra Patch-1.3.1-1.16.5.jar
-U__ -  upgrade_aquatic              -   upgrade_aquatic-1.16.5-3.1.2.jar
-U__ -  vampiresneedumbrellas        -   VampiresNeedUmbrellas-1.16.5-1.1.5.jar
-U__ -  vampirismco                  -   vampirismco_quirks.jar
-U__ -  vulture                      -   vulture-forge-1.16.5-1.0.0.jar
-U__ -  yio                          -   yio_1.16.5-1.0.0.jar
-UK_ -  armorpointspp                -   armorpointspp-forge-1.16.5-3.1.4.jar
-UK_ -  better_loading_screen        -   better-loading-screen-1.4.0.jar
-UK_ -  betteradvancements           -   BetterAdvancements-1.16.5-0.1.1.115.jar
-UK_ -  betteranimationscollection   -   BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
-UK_ -  betterbiomeblend             -   betterbiomeblend-1.16.4-1.2.9-forge.jar
-UK_ -  betterfpsdist                -   betterfpsdist-1.2.jar
-UK_ -  betterpingdisplay            -   BetterPingDisplay-1.16.5-1.0.jar
-UK_ -  betterthirdperson            -   BetterThirdPerson-Forge-1.16.4-1.9.0.jar
-UK_ -  brightnessslider             -   brightnessslider-forge-1.0-1.16.5.jar
-UK_ -  ding                         -   Ding-1.16.5-1.3.0.jar
-UK_ -  drawerfps                    -   drawerfps-2.1.jar
-UK_ -  dynamiclights                -   dynamiclights-1.16.5.1.jar
-UK_ -  enchdesc                     -   EnchantmentDescriptions-1.16.5-7.1.23.jar
-UK_ -  entitycollisionfpsfix        -   entitycollisionfpsfix-1.16-1.0.1.jar
-UK_ -  entityculling                -   entityculling-forge-mc1.16.5-1.5.2.jar
-UK_ -  iceberg                      -   Iceberg-1.16.5-1.0.45.jar
-UK_ -  jade                         -   amber-1.2.1.jar
-UK_ -  jei                          -   jei-1.16.5-7.8.0.1009.jar
-UK_ -  jeienchantmentinfo           -   JEIEnchantmentInfo-1.16.5-1.3.0.jar
-UK_ -  jeiintegration               -   jeiintegration_1.16.5-7.1.0.22.jar
-UK_ -  jeresources                  -   JustEnoughResources-1.16.5-0.12.1.128.jar
-UK_ -  justenoughbreeding           -   justenoughbreeding-forge-1.16.2-1.16.5-1.0.6.jar
-UK_ -  justenoughprofessions        -   JustEnoughProfessions-1.16.5-1.2.2.jar
-UK_ -  keywizard                    -   keywizard-forge-2.0.1.jar
-UK_ -  merchantmarkers              -   MerchantMarkers-1.16.5-1.3.0.jar
-UK_ -  mousetweaks                  -   MouseTweaks-2.14-mc1.16.2.jar
-UK_ -  neat                         -   Neat 1.7-27.jar
-UK_ -  nebs                         -   NekosEnchantedBooks-1.16-1.7.0.jar
-UK_ -  notenoughanimations          -   notenoughanimations-1.2.4.jar
-UK_ -  puzzleslib                   -   PuzzlesLib-v1.0.15-1.16.5-Forge.jar
-UK_ -  skinlayers3d                 -   skinlayers3d-forge-1.6.2-mc1.16.5.jar
-UK_ -  smoothboot                   -   smoothboot-forge-1.16.4-1.2.2.jar
-UK_ -  transliterationlib           -   TRansliterationLib-1.0.4.jar
-UK_ -  travelerstitles              -   TravelersTitles-1.16.4-1.5.jar
-UK_ -  waveycapes                   -   waveycapes-forge-1.3.2-mc1.16.5.jar
+!-UK_ -  adaptive_performance_tweaks  -   adaptive_performance_tweaks_1.16.5-2.5.0.jar
+!-UK_ -  allurement                   -   allurement-1.16.5-1.2.1.jar
+!-UK_ -  appleskin                    -   appleskin-forge-mc1.16.x-2.5.1.jar
+!-UK_ -  armorpointspp                -   armorpointspp-forge-1.16.5-3.1.4.jar
+!-UK_ -  ars_elemental                -   ars_elemental-1.16.5-0.1.6.4.jar
+!-UK_ -  ars_enderstorage             -   ArsEnderStorage-1.16.5-1.1.0.jar
+!-UK_ -  ars_gears                    -   ars_gears-1.16.5-1.2.3.jar
+!-UK_ -  ars_mage_fight               -   ars_mage_fight-1.16.5-0.7.1.jar
+!-UK_ -  arsarsenal                   -   arsarsenal-1.1.0-1.16.5.jar
+!-UK_ -  arsenal_core                 -   arsenal_core-1.1.1-1.16.5.jar
+!-UK_ -  arsenal_integration          -   arsenal_integration-1.1.0-1.16.5.jar
+!-UK_ -  arsomega                     -   arsomega-1.5.jar
+!-UK_ -  astral                       -   astral-1.9.19.jar
+!-UK_ -  autumnity                    -   autumnity-1.16.5-2.1.2.jar
+!-UK_ -  babel                        -   Babel-1.0.5.jar
+!-UK_ -  berry_good                   -   berry_good-1.16.5-4.1.2.jar
+!-UK_ -  better_bone_meal             -   Fertilizer 1.16 Forge v.1.2.jar
+!-UK_ -  better_diving                -   BetterDiving-1.16.5-1.3.5.jar
+!-UK_ -  better_elder_guardian        -   better ElderGuardian 1.16.5.jar
+!-UK_ -  better_loading_screen        -   better-loading-screen-1.4.0.jar
+!-UK_ -  betteradvancements           -   BetterAdvancements-1.16.5-0.1.1.115.jar
+!-UK_ -  betteranimationscollection   -   BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
+!-UK_ -  betterbiomeblend             -   betterbiomeblend-1.16.4-1.2.9-forge.jar
+!-UK_ -  betterburning                -   BetterBurning-1.16.5-6.0.8.jar
+!-UK_ -  betterclay                   -   BetterClay-1.16.5-1.2.0.jar
+!-UK_ -  betterdrowning               -   BetterDrowning-1.16.5-2.0.2.jar
+!-UK_ -  betterfpsdist                -   betterfpsdist-1.2.jar
+!-UK_ -  bettergamemenu               -   BetterGameMenu-1.16.5-1.0.jar
+!-UK_ -  betterlevel                  -   Better Level-1.0.jar
+!-UK_ -  betterpingdisplay            -   BetterPingDisplay-1.16.5-1.0.jar
+!-UK_ -  betterservergui              -   betterservergui-1.16.5-1.0.0.0-forge.jar
+!-UK_ -  betterthirdperson            -   BetterThirdPerson-Forge-1.16.4-1.9.0.jar
+!-UK_ -  born_in_chaos_v1             -   born_in_chaos_1.16_1.3.jar
+!-UK_ -  bowyery                      -   bowyery-0.2r.jar
+!-UK_ -  brightnessslider             -   brightnessslider-forge-1.0-1.16.5.jar
+!-UK_ -  buzzier_bees                 -   buzzier_bees-1.16.5-3.0.3.jar
+!-UK_ -  bygonenether                 -   bygonenether-1.3.2-1.16.5.jar
+!-UK_ -  cardboardboxes               -   cardboardboxes-1.16.5-0.0.5.jar
+!-UK_ -  catalogue                    -   catalogue-1.6.1-1.16.5.jar
+!-UK_ -  champions                    -   champions-forge-1.16.5-2.0.1.16.jar
+!-UK_ -  curiosquarkobp               -   CuriosQuarkOBP-1.16.5-1.0.2.jar
+!-UK_ -  cyclopscore                  -   CyclopsCore-1.16.5-1.13.0.jar
+!-UK_ -  dcch                         -   DontClearChatHistory-1.jar
+!-UK_ -  ding                         -   Ding-1.16.5-1.3.0.jar
+!-UK_ -  dragonfightconfigendergetic  -   dragonfightconfigendergetic-1.16.5-1.0.jar
+!-UK_ -  drawerfps                    -   drawerfps-2.1.jar
+!-UK_ -  dynamiclights                -   dynamiclights-1.16.5.1.jar
+!-UK_ -  ece                          -   ece-1.1.2.jar
+!-UK_ -  enchdesc                     -   EnchantmentDescriptions-1.16.5-7.1.23.jar
+!-UK_ -  endergetic                   -   endergetic-1.16.5-3.0.2.jar
+!-UK_ -  enderstorage                 -   EnderStorage-1.16.5-2.8.0.170-universal.jar
+!-UK_ -  entitycollisionfpsfix        -   entitycollisionfpsfix-1.16-1.0.1.jar
+!-UK_ -  entityculling                -   entityculling-forge-mc1.16.5-1.5.2.jar
+!-UK_ -  everlastingabilities         -   EverlastingAbilities-1.16.5-1.8.0.jar
+!-UK_ -  everythingisedibleeie        -   (1.16) EiE 1.1.1 (1.16.5[36.2.26]).jar
+!-UK_ -  fastbenchminusreplacement    -   fastbenchminusreplacement-1.4.jar
+!-UK_ -  fastfurnaceminusreplacement  -   fastfurnaceminusreplacement-1.1-1.16.3.jar
+!-UK_ -  fastipping                   -   fast-ip-ping-mc1.16.5-forge-v1.0.1.jar
+!-UK_ -  fastsuite                    -   FastSuite-1.16.4-1.1.1.jar
+!-UK_ -  ferritecore                  -   ferritecore-2.1.1-forge.jar
+!-UK_ -  foodeffects                  -   foodeffects-1.16.5-1.0.2.jar
+!-UK_ -  ftbdripper                   -   ftb-dripper-1605.1.0-build.16.jar
+!-UK_ -  getittogetherdrops           -   getittogetherdrops-1.16.5-v1.2.jar
+!-UK_ -  goety                        -   Goety-1.36.1.jar
+!-UK_ -  iceberg                      -   Iceberg-1.16.5-1.0.45.jar
+!-UK_ -  jade                         -   amber-1.2.1.jar
+!-UK_ -  jea                          -   JustEnoughAdvancements-1.16.5-1.0.2.jar
+!-UK_ -  jei                          -   jei-1.16.5-7.8.0.1009.jar
+!-UK_ -  jeienchantmentinfo           -   JEIEnchantmentInfo-1.16.5-1.3.0.jar
+!-UK_ -  jeiintegration               -   jeiintegration_1.16.5-7.1.0.22.jar
+!-UK_ -  jepb                         -   JEPB-1.0.0.jar
+!-UK_ -  jeresources                  -   JustEnoughResources-1.16.5-0.12.1.128.jar
+!-UK_ -  justenoughbreeding           -   justenoughbreeding-forge-1.16.2-1.16.5-1.0.6.jar
+!-UK_ -  justenoughprofessions        -   JustEnoughProfessions-1.16.5-1.2.2.jar
+!-UK_ -  keywizard                    -   keywizard-forge-2.0.1.jar
+!-UK_ -  lazydfu                      -   lazydfu-0.1.3.jar
+!-UK_ -  lootintegrations             -   lootintegrations-1.2.jar
+!-UK_ -  lucent                       -   lucent-1.16.5-1.0.0.jar
+!-UK_ -  merchantmarkers              -   MerchantMarkers-1.16.5-1.3.0.jar
+!-UK_ -  mousetweaks                  -   MouseTweaks-2.14-mc1.16.2.jar
+!-UK_ -  neapolitan                   -   neapolitan-1.16.5-2.2.1.jar
+!-UK_ -  neat                         -   Neat 1.7-27.jar
+!-UK_ -  nebs                         -   NekosEnchantedBooks-1.16-1.7.0.jar
+!-UK_ -  notenoughanimations          -   notenoughanimations-1.2.4.jar
+!-UK_ -  nv_helmet                    -   Mining_Helmet.jar
+!-UK_ -  opotato                      -   opotato-1.16.5-2.2.6.jar
+!-UK_ -  paintings_pack1              -   PaintingPack1.16ver2.jar
+!-UK_ -  passiveshield                -   passiveshield_1.16.5-2.6.jar
+!-UK_ -  personality                  -   personality-1.16.5-1.0.3.jar
+!-UK_ -  pocket_dimension             -   Pocket Dimension Storage.jar
+!-UK_ -  puzzleslib                   -   PuzzlesLib-v1.0.15-1.16.5-Forge.jar
+!-UK_ -  quark                        -   Quark-r2.4-322.jar
+!-UK_ -  quarkoddities                -   QuarkOddities-1.16.3.jar
+!-UK_ -  responsiveshields            -   responsiveshields-2.1-mc1.16.5.jar
+!-UK_ -  roadrunner                   -   RoadRunner-mc1.16.5-1.5.1.jar
+!-UK_ -  secondchanceforge            -   secondchanceforge-1.16.5-1.5.0.jar
+!-UK_ -  shieldexp                    -   ShieldExpansion-1.16.5-1.1.6.jar
+!-UK_ -  skinlayers3d                 -   skinlayers3d-forge-1.6.2-mc1.16.5.jar
+!-UK_ -  smoothboot                   -   smoothboot-forge-1.16.4-1.2.2.jar
+!-UK_ -  spacecatasb                  -   spacecatasb-forge-16.10.1.jar
+!-UK_ -  takesapillage                -   takesapillage-1.0.3-1.16.5.jar
+!-UK_ -  tetranomicon                 -   tetranomicon-1.4-1.16.5.jar
+!-UK_ -  tetrapak                     -   tetrapak-1.16.5-0.3.4.jar
+!-UK_ -  toolbooster                  -   toolbooster-1.0-1.16.5.jar
+!-UK_ -  transliterationlib           -   TRansliterationLib-1.0.4.jar
+!-UK_ -  travelerscompass             -   travelerscompass-1.16.5-1.0.0-forge.jar
+!-UK_ -  travelerstitles              -   TravelersTitles-1.16.4-1.5.jar
+!-UK_ -  undergarden                  -   The_Undergarden-1.16.5-0.5.5.jar
+!-UK_ -  undergardenpatch             -   Undergarden-Tetra Patch-1.3.1-1.16.5.jar
+!-UK_ -  upgrade_aquatic              -   upgrade_aquatic-1.16.5-3.1.2.jar
+!-UK_ -  vampiresneedumbrellas        -   VampiresNeedUmbrellas-1.16.5-1.1.5.jar
+!-UK_ -  vampirismco                  -   vampirismco_quirks.jar
+!-UK_ -  vulture                      -   vulture-forge-1.16.5-1.0.0.jar
+!-UK_ -  waveycapes                   -   waveycapes-forge-1.3.2-mc1.16.5.jar
+!-UK_ -  yio                          -   yio_1.16.5-1.0.0.jar
 P-UKS -  abnormals_core               -   abnormals_core-1.16.5-3.3.1.jar
 P-UKS -  aiimprovements               -   AI-Improvements-1.16.5-0.5.0.jar
 P-UKS -  aiotbotania                  -   aiotbotania-1.16.5-1.8.4.jar

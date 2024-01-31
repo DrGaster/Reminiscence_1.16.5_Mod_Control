@@ -1,6 +1,7 @@
 Legend:
     Notified by:
-        P | Already Present in Current List
+        P | Already on Server
+        ! | Not on Server
         K | Kyubi
         M | Monarch
         A | Appa

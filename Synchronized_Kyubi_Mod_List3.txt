@@ -1,57 +1,58 @@
 Legend:
-Notified by:
-P | Already Present in Current List
+    Notified by:
+        P | Already on Server
+        ! | Not on Server
         K | Kyubi
         M | Monarch
         A | Appa
         S | Sebben
     List Origin
-U | Rebil's Reminiscence
-K | Kyubi's List
-S | Server Pack List
+        U | Rebil's Reminiscence
+        K | Kyubi's List
+        S | Server Pack List
 ----------------------------------------------------------------------------------------
-_K_ -  bcc                          -   BetterCompatibilityChecker-1.0.7-build.22+mc1.16.5.jar
-_K_ -  jeitweaker                   -   JEITweaker-1.16.5-1.1.0.49.jar
-_K_ -  jerintegration               -   JER-Integration-1.1.1.jar
-_K_ -  reauth                       -   ReAuth-1.16-Forge-4.0.7.jar
-_K_ -  xaeroarrowfix                -   xaeroarrowfix-forge-1.1+1.16.jar
-_K_ -  xaerominimap                 -   Xaeros_Minimap_23.9.4_Forge_1.16.5.jar
-_K_ -  xaeroworldmap                -   XaerosWorldMap_1.37.4_Forge_1.16.5.jar
-UK_ -  armorpointspp                -   armorpointspp-forge-1.16.5-3.1.4.jar
-UK_ -  better_loading_screen        -   better-loading-screen-1.4.0.jar
-UK_ -  betteradvancements           -   BetterAdvancements-1.16.5-0.1.1.115.jar
-UK_ -  betteranimationscollection   -   BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
-UK_ -  betterbiomeblend             -   betterbiomeblend-1.16.4-1.2.9-forge.jar
-UK_ -  betterfpsdist                -   betterfpsdist-1.2.jar
-UK_ -  betterpingdisplay            -   BetterPingDisplay-1.16.5-1.0.jar
-UK_ -  betterthirdperson            -   BetterThirdPerson-Forge-1.16.4-1.9.0.jar
-UK_ -  brightnessslider             -   brightnessslider-forge-1.0-1.16.5.jar
-UK_ -  ding                         -   Ding-1.16.5-1.3.0.jar
-UK_ -  drawerfps                    -   drawerfps-2.1.jar
-UK_ -  dynamiclights                -   dynamiclights-1.16.5.1.jar
-UK_ -  enchdesc                     -   EnchantmentDescriptions-1.16.5-7.1.23.jar
-UK_ -  entitycollisionfpsfix        -   entitycollisionfpsfix-1.16-1.0.1.jar
-UK_ -  entityculling                -   entityculling-forge-mc1.16.5-1.5.2.jar
-UK_ -  iceberg                      -   Iceberg-1.16.5-1.0.45.jar
-UK_ -  jade                         -   amber-1.2.1.jar
-UK_ -  jei                          -   jei-1.16.5-7.8.0.1009.jar
-UK_ -  jeienchantmentinfo           -   JEIEnchantmentInfo-1.16.5-1.3.0.jar
-UK_ -  jeiintegration               -   jeiintegration_1.16.5-7.1.0.22.jar
-UK_ -  jeresources                  -   JustEnoughResources-1.16.5-0.12.1.128.jar
-UK_ -  justenoughbreeding           -   justenoughbreeding-forge-1.16.2-1.16.5-1.0.6.jar
-UK_ -  justenoughprofessions        -   JustEnoughProfessions-1.16.5-1.2.2.jar
-UK_ -  keywizard                    -   keywizard-forge-2.0.1.jar
-UK_ -  merchantmarkers              -   MerchantMarkers-1.16.5-1.3.0.jar
-UK_ -  mousetweaks                  -   MouseTweaks-2.14-mc1.16.2.jar
-UK_ -  neat                         -   Neat 1.7-27.jar
-UK_ -  nebs                         -   NekosEnchantedBooks-1.16-1.7.0.jar
-UK_ -  notenoughanimations          -   notenoughanimations-1.2.4.jar
-UK_ -  puzzleslib                   -   PuzzlesLib-v1.0.15-1.16.5-Forge.jar
-UK_ -  skinlayers3d                 -   skinlayers3d-forge-1.6.2-mc1.16.5.jar
-UK_ -  smoothboot                   -   smoothboot-forge-1.16.4-1.2.2.jar
-UK_ -  transliterationlib           -   TRansliterationLib-1.0.4.jar
-UK_ -  travelerstitles              -   TravelersTitles-1.16.4-1.5.jar
-UK_ -  waveycapes                   -   waveycapes-forge-1.3.2-mc1.16.5.jar
+!-_K_ -  xaeroarrowfix                -   xaeroarrowfix-forge-1.1+1.16.jar
+!-_K_ -  xaerominimap                 -   Xaeros_Minimap_23.9.4_Forge_1.16.5.jar
+!-_K_ -  xaeroworldmap                -   XaerosWorldMap_1.37.4_Forge_1.16.5.jar
+!-UK_ -  armorpointspp                -   armorpointspp-forge-1.16.5-3.1.4.jar
+!-UK_ -  bcc                          -   BetterCompatibilityChecker-1.0.7-build.22+mc1.16.5.jar
+!-UK_ -  better_loading_screen        -   better-loading-screen-1.4.0.jar
+!-UK_ -  betteradvancements           -   BetterAdvancements-1.16.5-0.1.1.115.jar
+!-UK_ -  betteranimationscollection   -   BetterAnimationsCollection-v1.2.4-1.16.5-Forge.jar
+!-UK_ -  betterbiomeblend             -   betterbiomeblend-1.16.4-1.2.9-forge.jar
+!-UK_ -  betterfpsdist                -   betterfpsdist-1.2.jar
+!-UK_ -  betterpingdisplay            -   BetterPingDisplay-1.16.5-1.0.jar
+!-UK_ -  betterthirdperson            -   BetterThirdPerson-Forge-1.16.4-1.9.0.jar
+!-UK_ -  brightnessslider             -   brightnessslider-forge-1.0-1.16.5.jar
+!-UK_ -  ding                         -   Ding-1.16.5-1.3.0.jar
+!-UK_ -  drawerfps                    -   drawerfps-2.1.jar
+!-UK_ -  dynamiclights                -   dynamiclights-1.16.5.1.jar
+!-UK_ -  enchdesc                     -   EnchantmentDescriptions-1.16.5-7.1.23.jar
+!-UK_ -  entitycollisionfpsfix        -   entitycollisionfpsfix-1.16-1.0.1.jar
+!-UK_ -  entityculling                -   entityculling-forge-mc1.16.5-1.5.2.jar
+!-UK_ -  iceberg                      -   Iceberg-1.16.5-1.0.45.jar
+!-UK_ -  jade                         -   amber-1.2.1.jar
+!-UK_ -  jei                          -   jei-1.16.5-7.8.0.1009.jar
+!-UK_ -  jeienchantmentinfo           -   JEIEnchantmentInfo-1.16.5-1.3.0.jar
+!-UK_ -  jeiintegration               -   jeiintegration_1.16.5-7.1.0.22.jar
+!-UK_ -  jeitweaker                   -   JEITweaker-1.16.5-1.1.0.49.jar
+!-UK_ -  jeresources                  -   JustEnoughResources-1.16.5-0.12.1.128.jar
+!-UK_ -  jerintegration               -   JER-Integration-1.1.1.jar
+!-UK_ -  justenoughbreeding           -   justenoughbreeding-forge-1.16.2-1.16.5-1.0.6.jar
+!-UK_ -  justenoughprofessions        -   JustEnoughProfessions-1.16.5-1.2.2.jar
+!-UK_ -  keywizard                    -   keywizard-forge-2.0.1.jar
+!-UK_ -  merchantmarkers              -   MerchantMarkers-1.16.5-1.3.0.jar
+!-UK_ -  mousetweaks                  -   MouseTweaks-2.14-mc1.16.2.jar
+!-UK_ -  neat                         -   Neat 1.7-27.jar
+!-UK_ -  nebs                         -   NekosEnchantedBooks-1.16-1.7.0.jar
+!-UK_ -  notenoughanimations          -   notenoughanimations-1.2.4.jar
+!-UK_ -  puzzleslib                   -   PuzzlesLib-v1.0.15-1.16.5-Forge.jar
+!-UK_ -  reauth                       -   ReAuth-1.16-Forge-4.0.7.jar
+!-UK_ -  skinlayers3d                 -   skinlayers3d-forge-1.6.2-mc1.16.5.jar
+!-UK_ -  smoothboot                   -   smoothboot-forge-1.16.4-1.2.2.jar
+!-UK_ -  transliterationlib           -   TRansliterationLib-1.0.4.jar
+!-UK_ -  travelerstitles              -   TravelersTitles-1.16.4-1.5.jar
+!-UK_ -  waveycapes                   -   waveycapes-forge-1.3.2-mc1.16.5.jar
 P-UKS -  abnormals_core               -   abnormals_core-1.16.5-3.3.1.jar
 P-UKS -  aiimprovements               -   AI-Improvements-1.16.5-0.5.0.jar
 P-UKS -  aiotbotania                  -   aiotbotania-1.16.5-1.8.4.jar
