@@ -1,0 +1,228 @@
+Legend:
+    Notified by:
+        P | Already on Server
+        ! | Not on Server
+        K | Kyubi
+        M | Monarch
+        A | Appa
+        S | Sebben
+    List Origin
+        U | Rebil's Reminiscence
+        K | Kyubi's List
+        S | Server Pack List
+----------------------------------------------------------------------------------------
+
+A-U__ -  goety                        -   Goety-1.36.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/goety
+
+K-U__ -  adaptive_performance_tweaks  -   adaptive_performance_tweaks_1.16.5-2.5.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/adaptive-performance-tweaks
+
+K-U__ -  allurement                   -   allurement-1.16.5-1.2.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/allurement
+
+K-U__ -  appleskin                    -   appleskin-forge-mc1.16.x-2.5.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/appleskin
+
+K-U__ -  archersarsenal               -   bowyery-0.2r.jar
+    https://www.curseforge.com/minecraft/mc-mods/archarsenal
+
+K-U__ -  arsarsenal                   -   arsarsenal-1.1.0-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/ars-arsenal
+
+K-U__ -  arsenal_core                 -   arsenal_core-1.1.1-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/arsenal-core
+
+K-U__ -  arsenal_integration          -   arsenal_integration-1.1.0-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/arsenal-integration
+
+K-U__ -  babel                        -   Babel-1.0.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/babel
+
+K-U__ -  berry_good                   -   berry_good-1.16.5-4.1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/berry-good
+
+K-U__ -  better_diving                -   BetterDiving-1.16.5-1.3.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-diving
+
+K-U__ -  better_elder_guardian        -   better ElderGuardian 1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-elderguardian
+
+K-U__ -  betterburning                -   BetterBurning-1.16.5-6.0.8.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-burning
+
+K-U__ -  betterclay                   -   BetterClay-1.16.5-1.2.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-clay
+
+K-U__ -  betterdrowning               -   BetterDrowning-1.16.5-2.0.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-drowning
+
+K-U__ -  bettergamemenu               -   BetterGameMenu-1.16.5-1.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-game-menu
+
+K-U__ -  betterservergui              -   betterservergui-1.16.5-1.0.0.0-forge.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-server-gui
+
+K-U__ -  buzzier_bees                 -   buzzier_bees-1.16.5-3.0.3.jar
+    https://www.curseforge.com/minecraft/mc-mods/buzzier-bees
+
+K-U__ -  bygonenether                 -   bygonenether-1.3.2-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/bygone-nether
+
+K-U__ -  catalogue                    -   catalogue-1.6.1-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/catalogue
+
+K-U__ -  champions                    -   champions-forge-1.16.5-2.0.1.16.jar
+    https://www.curseforge.com/minecraft/mc-mods/champions
+
+K-U__ -  dragonfightconfigendergetic  -   dragonfightconfigendergetic-1.16.5-1.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/dragon-fight-config-endergetic-addon
+
+K-U__ -  ecelestiale                  -   ece-1.1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/ece-enhanced-celestial-enhancement
+
+K-U__ -  endergetic                   -   endergetic-1.16.5-3.0.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/endergetic
+
+K-U__ -  everythingisedible           -   (1.16) EiE 1.1.1 (1.16.5[36.2.26]).jar
+    https://www.curseforge.com/minecraft/mc-mods/everything-is-edible-even-you
+
+K-U__ -  fastbenchminusreplacement    -   fastbenchminusreplacement-1.4.jar
+    https://www.curseforge.com/minecraft/mc-mods/fastworkbench-minus-replacement
+
+K-U__ -  fastfurnaceminusreplacement  -   fastfurnaceminusreplacement-1.1-1.16.3.jar
+    https://www.curseforge.com/minecraft/mc-mods/fastfurnace-minus-replacement
+
+K-U__ -  fastipping                   -   fast-ip-ping-mc1.16.5-forge-v1.0.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/fast-ip-ping
+
+K-U__ -  fastsuite                    -   FastSuite-1.16.4-1.1.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/fastsuite
+
+K-U__ -  ferritecore                  -   ferritecore-2.1.1-forge.jar
+    https://www.curseforge.com/minecraft/mc-mods/ferritecore
+
+K-U__ -  foodeffects                  -   foodeffects-1.16.5-1.0.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/food-effects
+
+K-U__ -  jea                          -   JustEnoughAdvancements-1.16.5-1.0.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/jea
+
+K-U__ -  jepb                         -   JEPB-1.0.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/just-enough-piglin-bartering
+
+K-U__ -  lazydfu                      -   lazydfu-0.1.3.jar
+    https://www.curseforge.com/minecraft/mc-mods/lazy-dfu-forge
+
+K-U__ -  lootintegrations             -   lootintegrations-1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/loot-integrations
+
+K-U__ -  lucent                       -   lucent-1.16.5-1.0.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/lucent
+
+K-U__ -  neapolitan                   -   neapolitan-1.16.5-2.2.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/neapolitan
+
+K-U__ -  nv_helmet                    -   Mining_Helmet.jar
+    https://www.curseforge.com/minecraft/mc-mods/miner-helmet
+
+K-U__ -  opotato                      -   opotato-1.16.5-2.2.6.jar
+    https://www.curseforge.com/minecraft/mc-mods/opotato
+
+K-U__ -  toolbooster                  -   toolbooster-1.0-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/tetra-toolbooster
+
+K-U__ -  upgrade_aquatic              -   upgrade_aquatic-1.16.5-3.1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic
+
+K-U__ -  vampiresneedumbrellas        -   VampiresNeedUmbrellas-1.16.5-1.1.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/vampires-need-umbrellas
+
+K-U__ -  vulture                      -   vulture-forge-1.16.5-1.0.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/ydms-vulture
+
+K-U__ -  yankitout                    -   yio_1.16.5-1.0.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/yank-it-out
+
+K-UK_ -  dynamiclights                -   dynamiclights-1.16.5.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/dynamic-lights
+
+K-UK_ -  jeienchantmentinfo           -   JEIEnchantmentInfo-1.16.5-1.3.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/jei-enchantment-info
+
+K-UK_ -  jeitweaker                   -   JEITweaker-1.16.5-1.1.0.49.jar
+    https://www.curseforge.com/minecraft/mc-mods/jeitweaker
+
+K-UK_ -  jeresources                  -   JustEnoughResources-1.16.5-0.12.1.128.jar
+    https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+
+K-UK_ -  jerintegration               -   JER-Integration-1.1.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/jer-integration
+
+K-UK_ -  justenoughbreeding           -   justenoughbreeding-forge-1.16.2-1.16.5-1.0.6.jar
+    https://www.curseforge.com/minecraft/mc-mods/justenoughbreeding
+
+K-UK_ -  justenoughprofessions        -   JustEnoughProfessions-1.16.5-1.2.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep
+
+M-U__ -  ars_elemental                -   ars_elemental-1.16.5-0.1.6.4.jar
+    https://www.curseforge.com/minecraft/mc-mods/ars-elemental
+
+M-U__ -  ars_enderstorage             -   ArsEnderStorage-1.16.5-1.1.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/ars-enderstorage
+
+M-U__ -  ars_gears                    -   ars_gears-1.16.5-1.2.3.jar
+    https://www.curseforge.com/minecraft/mc-mods/ars-nouveau-gears
+M-U__ -  ars_mage_fight               -   ars_mage_fight-1.16.5-0.7.1.jar
+
+    https://www.curseforge.com/minecraft/mc-mods/ars-mage-fight
+M-U__ -  arsomega                     -   arsomega-1.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/ars-omega
+
+M-U__ -  astral                       -   astral-1.9.19.jar
+    https://www.curseforge.com/minecraft/mc-mods/ma-astral
+
+M-U__ -  autumnity                    -   autumnity-1.16.5-2.1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/autumnity
+
+M-U__ -  better_bone_meal             -   Fertilizer 1.16 Forge v.1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-bone-meal
+
+M-U__ -  betterlevel                  -   Better Level-1.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/better-level
+
+M-U__ -  cardboardboxes               -   cardboardboxes-1.16.5-0.0.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/sbm-cardboardboxes
+
+M-U__ -  enderstorage                 -   EnderStorage-1.16.5-2.8.0.170-universal.jar
+    https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8
+
+M-U__ -  everlastingabilities         -   EverlastingAbilities-1.16.5-1.8.0.jar
+    https://www.curseforge.com/minecraft/mc-mods/everlastingabilities
+
+M-U__ -  getittogetherdrops           -   getittogetherdrops-1.16.5-v1.2.jar
+    https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops
+
+M-U__ -  tetranomicon                 -   tetranomicon-1.4-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/tetranomicon
+
+M-U__ -  tetrapak                     -   tetrapak-1.16.5-0.3.4.jar
+    https://www.curseforge.com/minecraft/mc-mods/tetra-pak
+
+M-U__ -  undergarden                  -   The_Undergarden-1.16.5-0.5.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/the-undergarden
+
+M-U__ -  undergardenpatch             -   Undergarden-Tetra Patch-1.3.1-1.16.5.jar
+    https://www.curseforge.com/minecraft/mc-mods/undergarden-tetra-patch
+
+M-U__ -  vampirismco                  -   vampirismco_quirks.jar
+    https://www.curseforge.com/minecraft/mc-mods/vampirismco
+
+M-UK_ -  Amber                        -   amber-1.2.1.jar
+    https://www.curseforge.com/minecraft/mc-mods/amber-jade
+
+M-UK_ -  jei                          -   jei-1.16.5-7.8.0.1009.jar
+    https://www.curseforge.com/minecraft/mc-mods/jei-integration
+
+M-UK_ -  jeiintegration               -   jeiintegration_1.16.5-7.1.0.22.jar
+    https://www.curseforge.com/minecraft/mc-mods/jei
