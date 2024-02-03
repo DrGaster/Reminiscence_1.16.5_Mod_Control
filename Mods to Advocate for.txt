@@ -44,6 +44,7 @@ Will Look into alternatives
     Better Level,  **denied** , I would like a fix for the experience system in minecraft being "mean" but i dont believe this is the way but as always this can be debated
         Not exactly the same thing, but should powerscaling ever become a issue of not enough, well...
             https://www.curseforge.com/minecraft/mc-mods/just-leveling
+            https://www.curseforge.com/minecraft/mc-mods/playerex
 
 plausible
     bettergamemenu, as of now, no but I do see this being  **added**  in the future
