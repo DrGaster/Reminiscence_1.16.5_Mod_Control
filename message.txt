@@ -1,0 +1,137 @@
+Goetyy,  **added** 
+Adaptive performance tweaks, **added**  to server as is server side mod 
+Allurement,  **added** 
+Wifi has died so i'm typing this on phone. I should hopfully get more of this done tmr
+
+
+appleskin,  **added** 
+
+archersarsenal             
+
+arsarsenal
+
+arsenal_core,  **added** 
+
+arsenal_integration, debating as it only integrates with one mod that we have on the server, mythical botany
+
+Babel,  **denied** , many of the comments on the mod complain about it causing crashes or not working and there hasn't been an update for it since those comments
+
+berry_good,  **denied** , I would like more of a description of what it adds
+
+better_diving, I'm not sure, I would like for us to debate on if we want to add it
+
+Better_elder_guardian,  **added** 
+
+betterburning,  **denied** , I would generally like to keep the mod count low and it doesnt seem like this mod adds much but we can debate on if we want this mod or not
+
+betterclay,  **added** 
+
+betterdrowning,  **denied** , if you wanted this for the Clearer Water feature, i think client side mods exist to do this
+
+bettergamemenu, as of now, no but I do see this being  **added**  in the future
+
+betterservergui, this is a server side mod but it wouldn't work because bisect as well as almost every other server hosting platforms have a website that acts as a control pannel which is arguably better and worse but I dont think I could access this even if I wanted too
+
+buzzier_bees,  **denied** , I would like more of a description on what this adds
+
+Bygone Nether, undecided, seems like a cool mod but it adds world gen, only to the nether though so if we are up for it we could reset the nether and have this mod take affect or we could try it without resetting the nether and see what happens
+
+Catalogue,  **added** , client side mod
+
+Champions,  **denied** , could be cool but mobs are rather difficult but I could do some config and hopfully make life not a living hell, I would like for us to debate if we want this on the server
+
+Dragonfightconfigendergetic,  **denied** , I don't believe that it is usfule and or needed on the server
+
+ECE - Enhanced Celestial Enhancement: The Second Moon,  **denied** , this is an addon for the mod  Enhanced Celestials that is currently not on the server 
+
+The Endergetic Expansion,  **added** 
+
+Everything is edible, even you!,  **denied** , I dont really have a reason for this one other then I want to keep the server mod count low which is a shitty reason so if you want this  **added**  please tell me
+
+fastbenchminusreplacement,  **added** 
+
+fastfurnaceminusreplacement,  **added** 
+
+Fast IP Ping,  **added** , client side
+
+FastSuite,  **denied** , newly  **added**  mods do this
+
+FerriteCore,  **added** 
+
+Food Effects,  **added** 
+
+JEA,  **added** 
+
+Just Enough Piglin Bartering,  **denied** , sorry but it requires the Babel mod which has been  **denied**  but we can debate on this
+
+Lazy DataFixerUpper(LazyDFU)  **denied** ?, im not exactly sure if this only for converting data to newer versions and if so it is  **denied**  as of now but will be considered in the future if there are any updates to the server version
+
+Loot Integrations[Forge/Fabric],  **added** 
+
+Lucent,  **added** 
+
+Neapolitan, unsure, It seems like a cool food mod but it adds in world gen which may cause some issues but probably not, I could also do some world trimming to hopfully make it so some of the items are actually obtainable or add in custom npcs at spawn that sell the items, I would like to debate on this
+
+Miner Helmet,  **denied** , I kinda wish it would interact with the lucent mod but this simply gives night vision to the wearer. If you can find a mod that does this I will hapily add it to the server
+
+Opotato,  **added** 
+
+Tetra Toolbooster,  **denied** , I feel as though the mods currently on the server that offer armor and tools are suffiecent but we can debate on this
+
+Upgrade Aquatic, im not sure, I would like to add this but it adds world generation but I can do some world trimming to hopfully make this work
+
+Vampires Need Umbrellas,  **denied** , I feel as though this kinda defeats the purpose of sun being a weakness to vampires but we can debate on this
+
+YDM's Vulture,  **denied** , It just kinda feels weird to add and out of the blue but we can debate if we want this
+
+Yank It Out,  **added** 
+
+dynamiclights,  **denied** , Lucent does this 
+
+jeienchantmentinfo,  **added** 
+
+jeitweaker,  **added** 
+
+jeresources,  **added** 
+
+Just Enough Breeding (JEBr),  **denied** , i feel like what mobs need to breed is common knowledge but if you deagree we can debate, also this is a client side mod so it can be  **added**  to your client
+
+justenoughprofessions,  **added** 
+
+Ars Elemental,  **added** , but kinda scared as 1.16.5 doesnt get bug fixes or updates
+
+Ars EnderStorage,  **added** 
+
+Ars Omega,  **added** , but I don't believe it has support for the blood versions of the spell books so those wont be able to cast the tier 4 glyphs, hopfully i can craft tweaker or something so a tier 4 blood spell book exists
+
+Miner Arcana - Astral,  **added** 
+
+Autumnity, I want to add this but it adds in world geneartion but again with some world trimming it should be possible to add, I will leave this up to debates if we want this
+
+Better Bone Meal, addced
+
+Better Level,  **denied** , I would like a fix for the experience system in minecraft being "mean" but i dont believe this is the way but as always this can be debated
+
+[SBM] Cardboard Boxes,  **denied** , Instead we will have the carry on mod
+
+enderstorage,  **added**
+
+EverlastingAbilities,  **added**  but i will like to edit the configs of this
+
+Get It Together, Drops!,i see this being problematic for farms but also being beneficial to them so we will debate on this
+
+Tetranomicon,  **added** 
+
+Tetra Pak,  **added** , note to self, add https://github.com/Noobulus/tetranomipak/releases/tag/0.1 to the server
+
+The Undergarden,  **added** 
+
+Undergarden/Tetra Patch,  **added** 
+
+Vampirism.co Quirks,  **denied** , little to no doccumentation, if someone wants too they can send me a description of what this does and I will reconsider
+
+Amber (Jade),  **added** 
+
+JEI,  **added** 
+
+JEI Integration,  **added** 
